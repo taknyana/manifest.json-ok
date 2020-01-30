@@ -1,0 +1,38 @@
+{
+  "name": "TAK NYANA",
+  "short_name": "TAKNYANA",
+  "start_url": "https://www.taknyana.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "BLOG INI MERUPAKA MEDIA UNTUK BERBAGI ILMU DAN INFO",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-gqDc1fi7vtE/XiFdDDLzcwI/AAAAAAAAAcI/0pAHGmSe67oE8cHwagv6Z649GvFgYhkvgCLcBGAsYHQ/s48/300.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gqDc1fi7vtE/XiFdDDLzcwI/AAAAAAAAAcI/0pAHGmSe67oE8cHwagv6Z649GvFgYhkvgCLcBGAsYHQ/s72/300.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gqDc1fi7vtE/XiFdDDLzcwI/AAAAAAAAAcI/0pAHGmSe67oE8cHwagv6Z649GvFgYhkvgCLcBGAsYHQ/s96/300.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gqDc1fi7vtE/XiFdDDLzcwI/AAAAAAAAAcI/0pAHGmSe67oE8cHwagv6Z649GvFgYhkvgCLcBGAsYHQ/s144/300.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gqDc1fi7vtE/XiFdDDLzcwI/AAAAAAAAAcI/0pAHGmSe67oE8cHwagv6Z649GvFgYhkvgCLcBGAsYHQ/s168/300.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gqDc1fi7vtE/XiFdDDLzcwI/AAAAAAAAAcI/0pAHGmSe67oE8cHwagv6Z649GvFgYhkvgCLcBGAsYHQ/s192/300.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gqDc1fi7vtE/XiFdDDLzcwI/AAAAAAAAAcI/0pAHGmSe67oE8cHwagv6Z649GvFgYhkvgCLcBGAsYHQ/s512/300.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
